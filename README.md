@@ -1,2 +1,37 @@
-# Arduino-based-collision-detection-warning-system
-This is arduino based collision detection warning system. This kind of system is fastest groing safety feature in automotive industries. Such system enabbles vehicles to identify thechances of collision and give visula and audio warning to driver. So that driver can take necessary action to avoid collision. This project idea is based on arduino controller and the whole system will give you very good understanding that how this system works. The step by step method is explained so that you can make this system. The hardware coneection, pin information and arduino program is explained clearly.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/vkansykar/Arduino-based-collision-detection-warning-system/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vkansykar/Arduino-based-collision-detection-warning-system/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
